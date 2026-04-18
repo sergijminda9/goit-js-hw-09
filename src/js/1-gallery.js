@@ -10,11 +10,10 @@ const images = [
     alt: 'Ocean waves',
   },
   {
-    small:
-      'https://cdn.pixabay.com/photo/2016/11/22/19/17/flowers-1850477_640.jpg',
+    small: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_640.jpg',
     large:
-      'https://cdn.pixabay.com/photo/2016/11/22/19/17/flowers-1850477_1280.jpg',
-    alt: 'Beautiful flowers',
+      'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg',
+    alt: 'Beautiful tree',
   },
   {
     small:
@@ -25,10 +24,10 @@ const images = [
   },
   {
     small:
-      'https://cdn.pixabay.com/photo/2016/09/14/13/42/sailboat-1670257_640.jpg',
+      'https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_640.jpg',
     large:
-      'https://cdn.pixabay.com/photo/2016/09/14/13/42/sailboat-1670257_1280.jpg',
-    alt: 'Sailboat on the sea',
+      'https://cdn.pixabay.com/photo/2016/01/09/18/27/camera-1130731_1280.jpg',
+    alt: 'Camera',
   },
   {
     small:
